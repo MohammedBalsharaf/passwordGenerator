@@ -1,4 +1,3 @@
-# passwordGenerator
 from cryptography.fernet import Fernet
 import string
 import random
